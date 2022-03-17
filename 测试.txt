@@ -1,1 +1,15 @@
 Hello！ZHQ~
+第一步：
+git init   ==》初始化仓库
+第二步
+git add “文件名”  ==》添加
+第三步
+git commit “文件名”==》提交到本地仓库
+第四步
+git remote add origin git@“远程仓库链接” ==》连接远程仓库
+第五步
+git push orgin master ==>提交到远程master分支
+
+按这个步骤就行。。
+第四步的话，执行一次就行了
+现在我修改了文件
